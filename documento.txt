@@ -1,1 +1,2 @@
-Francisco no sabe git pero está aprendiendo!
+﻿Francisco no sabe git pero está aprendiendo!
+Pedro es bac{an y lo amo
